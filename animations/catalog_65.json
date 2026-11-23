@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "total": 65,
+  "doneCount": 58,
+  "exercises": [
+    {
+      "id": "0662",
+      "name": "Flexión",
+      "nameEn": "Push-Up",
+      "group": "Pecho",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0025",
+      "name": "Press de banca con barra",
+      "nameEn": "Barbell Bench Press",
+      "group": "Pecho",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0047",
+      "name": "Press con barra, en banco inclinado",
+      "nameEn": "Barbell Incline Bench Press",
+      "group": "Pecho",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0289",
+      "name": "Press de banca con mancuerna",
+      "nameEn": "Dumbbell Bench Press",
+      "group": "Pecho",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0314",
+      "name": "Press con mancuerna, en banco inclinado",
+      "nameEn": "Dumbbell Incline Bench Press",
+      "group": "Pecho",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0308",
+      "name": "Apertura con mancuerna",
+      "nameEn": "Dumbbell Fly",
+      "group": "Pecho",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0319",
+      "name": "Apertura inclinado con mancuerna",
+      "nameEn": "Dumbbell Incline Fly",
+      "group": "Pecho",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0227",
+      "name": "Apertura en polea, de pie",
+      "nameEn": "Cable Standing Fly",
+      "group": "Pecho",
+      "equipment": "Cable",
+      "status": "done"
+    },
+    {
+      "id": "0652",
+      "name": "Dominada",
+      "nameEn": "Pull-Up",
+      "group": "Espalda",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "1326",
+      "name": "Dominada supina",
+      "nameEn": "Chin-Up",
+      "group": "Espalda",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0027",
+      "name": "Remo inclinado con barra",
+      "nameEn": "Barbell Bent Over Row",
+      "group": "Espalda",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0293",
+      "name": "Remo inclinado con mancuerna",
+      "nameEn": "Dumbbell Bent Over Row",
+      "group": "Espalda",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0292",
+      "name": "Remo inclinado con mancuerna, a una mano",
+      "nameEn": "Dumbbell One Arm Bent-Over Row",
+      "group": "Espalda",
+      "equipment": "Dumbbell",
+      "status": "mocap_candidate"
+    },
+    {
+      "id": "0198",
+      "name": "Jalón al pecho en polea",
+      "nameEn": "Cable Pulldown",
+      "group": "Espalda",
+      "equipment": "Cable",
+      "status": "done"
+    },
+    {
+      "id": "0861",
+      "name": "Remo sentado en polea",
+      "nameEn": "Cable Seated Row",
+      "group": "Espalda",
+      "equipment": "Cable",
+      "status": "done"
+    },
+    {
+      "id": "0095",
+      "name": "Encogimiento con barra",
+      "nameEn": "Barbell Shrug",
+      "group": "Espalda",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0406",
+      "name": "Encogimiento con mancuerna",
+      "nameEn": "Dumbbell Shrug",
+      "group": "Espalda",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0334",
+      "name": "Elevación lateral con mancuerna",
+      "nameEn": "Dumbbell Lateral Raise",
+      "group": "Hombros",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "1456",
+      "name": "Press militar con barra, de pie, con agarre cerrado",
+      "nameEn": "Barbell Standing Close Grip Military Press",
+      "group": "Hombros",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0405",
+      "name": "Press militar con mancuernas sentado / Press de hombros",
+      "nameEn": "Dumbbell Seated Military Press / Shoulder Press",
+      "group": "Hombros",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "2137",
+      "name": "Press Arnold con mancuerna",
+      "nameEn": "Dumbbell Arnold Press",
+      "group": "Hombros",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0310",
+      "name": "Elevación frontal con mancuerna",
+      "nameEn": "Dumbbell Front Raise",
+      "group": "Hombros",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0378",
+      "name": "Apertura posterior con mancuerna",
+      "nameEn": "Dumbbell Rear Fly",
+      "group": "Hombros",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0233",
+      "name": "Face Pull en polea (con cuerda)",
+      "nameEn": "Face Pull / Cable Standing Rear Delt Row (with Rope)",
+      "group": "Hombros",
+      "equipment": "Cable",
+      "status": "done"
+    },
+    {
+      "id": "0120",
+      "name": "Remo al mentón con barra",
+      "nameEn": "Barbell Upright Row",
+      "group": "Hombros",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0294",
+      "name": "Curl de bíceps con mancuerna",
+      "nameEn": "Dumbbell Biceps Curl",
+      "group": "Bíceps",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0285",
+      "name": "Curl de bíceps con mancuerna, alternado",
+      "nameEn": "Dumbbell Alternate Biceps Curl",
+      "group": "Bíceps",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0313",
+      "name": "Curl martillo con mancuerna",
+      "nameEn": "Dumbbell Hammer Curl",
+      "group": "Bíceps",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0315",
+      "name": "Curl de bíceps inclinado con mancuerna",
+      "nameEn": "Dumbbell Incline Biceps Curl",
+      "group": "Bíceps",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0031",
+      "name": "Curl con barra",
+      "nameEn": "Barbell Curl",
+      "group": "Bíceps",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0868",
+      "name": "Curl en polea",
+      "nameEn": "Cable Curl",
+      "group": "Bíceps",
+      "equipment": "Cable",
+      "status": "done"
+    },
+    {
+      "id": "0283",
+      "name": "Flexión diamante",
+      "nameEn": "Diamond Push-Up",
+      "group": "Tríceps",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0814",
+      "name": "Fondo de tríceps",
+      "nameEn": "Triceps Dip",
+      "group": "Tríceps",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0129",
+      "name": "Fondo en banco, rodillas doblado",
+      "nameEn": "Bench Dip (knees Bent)",
+      "group": "Tríceps",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0030",
+      "name": "Press de banca con barra, con agarre cerrado",
+      "nameEn": "Barbell Close-Grip Bench Press",
+      "group": "Tríceps",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0061",
+      "name": "Extensión de tríceps con barra, tumbado",
+      "nameEn": "Barbell Lying Triceps Extension",
+      "group": "Tríceps",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0430",
+      "name": "Extensión de tríceps con mancuerna, de pie",
+      "nameEn": "Dumbbell Standing Triceps Extension",
+      "group": "Tríceps",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0201",
+      "name": "Pushdown en polea",
+      "nameEn": "Cable Pushdown",
+      "group": "Tríceps",
+      "equipment": "Cable",
+      "status": "done"
+    },
+    {
+      "id": "0080",
+      "name": "Curl invertido con barra",
+      "nameEn": "Barbell Reverse Curl",
+      "group": "Antebrazos",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0126",
+      "name": "Curl de muñeca con barra",
+      "nameEn": "Barbell Wrist Curl",
+      "group": "Antebrazos",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0043",
+      "name": "Sentadilla completa con barra",
+      "nameEn": "Barbell Full Squat",
+      "group": "Cuádriceps",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0042",
+      "name": "Sentadilla frontal con barra",
+      "nameEn": "Barbell Front Squat",
+      "group": "Cuádriceps",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0413",
+      "name": "Sentadilla con mancuerna",
+      "nameEn": "Dumbbell Squat",
+      "group": "Cuádriceps",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "1760",
+      "name": "Sentadilla goblet con mancuerna",
+      "nameEn": "Dumbbell Goblet Squat",
+      "group": "Cuádriceps",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0336",
+      "name": "Zancada con mancuerna",
+      "nameEn": "Dumbbell Lunge",
+      "group": "Cuádriceps",
+      "equipment": "Dumbbell",
+      "status": "mocap_candidate"
+    },
+    {
+      "id": "0410",
+      "name": "Split squat con mancuerna, a una pierna",
+      "nameEn": "Dumbbell Single Leg Split Squat",
+      "group": "Cuádriceps",
+      "equipment": "Dumbbell",
+      "status": "mocap_candidate"
+    },
+    {
+      "id": "0032",
+      "name": "Peso muerto con barra",
+      "nameEn": "Barbell Deadlift",
+      "group": "Glúteos e Isquios",
+      "equipment": "Barbell",
+      "status": "mocap_candidate"
+    },
+    {
+      "id": "0085",
+      "name": "Peso muerto rumano con barra",
+      "nameEn": "Barbell Romanian Deadlift",
+      "group": "Glúteos e Isquios",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "1459",
+      "name": "Peso muerto rumano con mancuerna",
+      "nameEn": "Dumbbell Romanian Deadlift",
+      "group": "Glúteos e Isquios",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "3562",
+      "name": "Hip Thrust con barra (en banco)",
+      "nameEn": "Barbell Hip Thrust / Glute Bridge On Bench",
+      "group": "Glúteos e Isquios",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "3013",
+      "name": "Puente de glúteos, bajo en el suelo",
+      "nameEn": "Low Glute Bridge On Floor",
+      "group": "Glúteos e Isquios",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0196",
+      "name": "Pull through en polea, con cuerda",
+      "nameEn": "Cable Pull Through (with Rope)",
+      "group": "Glúteos e Isquios",
+      "equipment": "Cable",
+      "status": "done"
+    },
+    {
+      "id": "1372",
+      "name": "Elevación de talones con barra, de pie",
+      "nameEn": "Barbell Standing Calf Raise",
+      "group": "Gemelos",
+      "equipment": "Barbell",
+      "status": "done"
+    },
+    {
+      "id": "0417",
+      "name": "Elevación de talones con mancuerna, de pie",
+      "nameEn": "Dumbbell Standing Calf Raise",
+      "group": "Gemelos",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "1379",
+      "name": "Elevación de talones con mancuerna, sentado",
+      "nameEn": "Dumbbell Seated Calf Raise",
+      "group": "Gemelos",
+      "equipment": "Dumbbell",
+      "status": "done"
+    },
+    {
+      "id": "0274",
+      "name": "Crunch, suelo",
+      "nameEn": "Crunch Floor",
+      "group": "Abdomen / Core",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0735",
+      "name": "Abdominal",
+      "nameEn": "Sit-Up",
+      "group": "Abdomen / Core",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0464",
+      "name": "Plancha frontal con giro",
+      "nameEn": "Front Plank With Twist",
+      "group": "Abdomen / Core",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0705",
+      "name": "Plancha lateral / Side Plank",
+      "nameEn": "Side Plank / Side Bridge (Isometric)",
+      "group": "Abdomen / Core",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0620",
+      "name": "Elevación de piernas, tumbado, en banco plano",
+      "nameEn": "Lying Leg Raise Flat Bench",
+      "group": "Abdomen / Core",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0472",
+      "name": "Elevación de piernas en barra",
+      "nameEn": "Hanging Leg Raise",
+      "group": "Abdomen / Core",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0687",
+      "name": "Russian twist",
+      "nameEn": "Russian Twist",
+      "group": "Abdomen / Core",
+      "equipment": "Bodyweight",
+      "status": "done"
+    },
+    {
+      "id": "0514",
+      "name": "Sentadilla con salto",
+      "nameEn": "Jump Squat",
+      "group": "Cardio",
+      "equipment": "Bodyweight",
+      "status": "mocap_candidate"
+    },
+    {
+      "id": "0630",
+      "name": "Escalador",
+      "nameEn": "Mountain Climber",
+      "group": "Cardio",
+      "equipment": "Bodyweight",
+      "status": "mocap_candidate"
+    },
+    {
+      "id": "1160",
+      "name": "Burpee",
+      "nameEn": "Burpee",
+      "group": "Cardio",
+      "equipment": "Bodyweight",
+      "status": "mocap_candidate"
+    }
+  ]
+}
